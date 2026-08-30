@@ -83,3 +83,7 @@ Application
 ## Status
 
 Version `0.1.0` focuses on the smallest complete workflow: registration, multi-tool collection, freshness validation, authorization, scheduling and auditability.
+
+## License
+
+Source is available for non-commercial use, copying, modification and distribution. Commercial use requires prior written authorization from the copyright holder. See [LICENSE](LICENSE).
